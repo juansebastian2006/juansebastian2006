@@ -13,6 +13,6 @@ me = Person("Juan", 15)
 ```
 
 ### Stats
-![Ángel's Github Stats](https://github-readme-stats.vercel.app/api?username=juansebastian2006&theme=vue-dark&show_icons=true)
-![Ángel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juansebastian2006&theme=vue-dark&layout=compact&show_icons=true&exclude_repos=macao)
+![Juan's Github Stats](https://github-readme-stats.vercel.app/api?username=juansebastian2006&theme=vue-dark&show_icons=true)
+![Juan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juansebastian2006&theme=vue-dark&layout=compact&show_icons=true&exclude_repos=macao)
 
