@@ -2,6 +2,17 @@
 
 I'm a 15 year old programmer, currently learning basic concepts to improve my knowledge and only then to build great things.
 
+## Python 🐍
+- Asynchronous Programming
+- Websockets
+
+## Java ☕
+- Implementation
+- Android Studio 
+- Lambda Expressions
+
+
+
 ```py
 
 class Person:
