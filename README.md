@@ -15,12 +15,9 @@ I'm a 15 year old programmer, currently learning basic concepts to improve my kn
 
 ```py
 
-class Person:
-   def __init__(self, name: str, age: int):
-      self.name = name
-      self.age = age
+Person = type("Person", (object, ), {"__init__": lambda self, name, age, aliase: [setattr(self, "name", name), setattr(self, "age", age), setattr(self, "aliase", aliase)]})
 
-me = Person("Juan", 15)
+me = Person("Juan", 15, ["Oliver Twist"])
 ```
 
 ### Stats
