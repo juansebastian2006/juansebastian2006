@@ -15,7 +15,7 @@ I'm a 15 year old programmer, currently learning basic concepts to improve my kn
 
 ```py
 
-Person = type("Person", (object, ), {"__init__": lambda self, name, age, aliase: [setattr(self, "name", name), setattr(self, "age", age), setattr(self, "aliase", aliase)]})
+Person = type("Person", (object, ), {"__init__": lambda self, name, age, aliase: [setattr(self, "name", name), setattr(self, "age", age), setattr(self, "aliase", aliase), None][-1]})
 
 me = Person("Juan", 15, ["Oliver Twist"])
 ```
